@@ -1,7 +1,7 @@
 {
     "app_status": {
-        "maintenance": false,
-        "message": "Sinki Safe official account ",
+        "maintenance": true,
+        "message": "يمكنكم الاشتراك بالنسخة المدفوعة",
         "telegram": "https://t.me/Group_Sinki"
     }
 }
