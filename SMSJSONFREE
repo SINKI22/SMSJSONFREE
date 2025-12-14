@@ -1,7 +1,7 @@
 {
     "app_status": {
         "maintenance": true,
-        "message": "يمكنكم الاشتراك بالنسخة المدفوعة",
+        "message": "هذه النسخة مجانية يمكنكم الاشتراك بالنسخة المدفوعة ",
         "telegram": "https://t.me/Group_Sinki"
     }
 }
