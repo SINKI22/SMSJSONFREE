@@ -1,6 +1,6 @@
 {
     "app_status": {
-        "maintenance": true,
+        "maintenance": false,
         "message": "You can subscribe paid by contacting us",
         "telegram": "https://t.me/Group_Sinki"
     }
